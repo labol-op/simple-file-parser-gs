@@ -132,3 +132,9 @@ dmypy.json
 bin/
 lib64
 pyvenv.cfg
+
+# arquivos excel
+*.json
+*.xlsx
+*.csv
+*.XLSX

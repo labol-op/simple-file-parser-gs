@@ -1,3 +1,6 @@
 jupyter
 xlsx2csv
 polars
+pandas
+jupyterlab
+gspread
